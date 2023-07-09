@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/kartika-deviani-35732a225/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@devliezye7007">
+  <a href="https://www.youtube.com/@devliezye">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
