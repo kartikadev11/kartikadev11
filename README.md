@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikadev11&show_icons=true&theme=transparent" alt="kartikadev11" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikadev11&show_icons=true&theme=transparent" alt="kartikadev11" /></p> 
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikadev11&show_icons=true&theme=transparent" alt="kartikadev11" /></p> 
