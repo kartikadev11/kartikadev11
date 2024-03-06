@@ -13,6 +13,6 @@
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wfbbt3tpqz38rv3c415n47w2z&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) -->
 
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikadev11&show_icons=true&theme=transparent" alt="kartikadev11" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikadev11&show_icons=true&theme=transparent" alt="kartikadev11" /></p> 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikadev11&show_icons=true&theme=transparent" alt="kartikadev11" /></p> 
