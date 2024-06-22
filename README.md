@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **Machine Learning** and **Data Science**
 - 💬 Ask me about **Web Development** and **Python**
 <!-- - 👯 I’m looking to collaborate on **Open Source Projects** -->
-- 📫 How to reach me: [kartika.deviani@example.com](mailto:kartikadevianii@gmail.com)
+- 📫 How to reach me: [kartikadevianii@gmail.com](mailto:kartikadevianii@gmail.com)
 <!-- - ⚡ Fun fact: I love playing the guitar and hiking -->
 
 ## 🛠️ Technologies & Tools
