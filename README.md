@@ -53,8 +53,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikadev11&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartikadev11&theme=radical" alt="GitHub Trophies" />
-</p>
