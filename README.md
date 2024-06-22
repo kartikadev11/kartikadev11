@@ -40,12 +40,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikadev11&show_icons=true&theme=radical" alt="Kartika's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikadev11&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikadev11&show_icons=true&theme=radical" alt="Kartika's GitHub stats" style="display: inline-block; vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikadev11&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block; vertical-align: top;" />
+</div>
 
 ## 🔥 GitHub Streak Stats
 
