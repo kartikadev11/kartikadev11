@@ -37,6 +37,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 
 ## 📊 GitHub Stats
 
