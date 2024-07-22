@@ -18,7 +18,7 @@
 
 ## 🌟 About Me
 
-- 🌱 I’m currently learning **Machine Learning** and **Data Science**
+- 🌱 I’m currently learning **Machine Learning**, **Data Science**, and **Flutter**
 - 💬 Ask me about **Web Development** and **Python**
 <!-- - 👯 I’m looking to collaborate on **Open Source Projects** -->
 - 📫 How to reach me: [kartikadevianii@gmail.com](mailto:kartikadevianii@gmail.com)
